@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: navajowhite
+}
+h1 {
+	color: #66AECB
+}
+p{
+	color:black; background-color:burlywood
+}
+h1 {
+	text-align:center
+ }
+a{
+	text-decoration: none
+}
+
+p{
+	text-align: center
+}
+
+p{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"		
+}
+
+#firstp{
+	color:darkcyan;
+	lined-height:10
+}
+.blue{
+	color:blue
+}
+.red{
+	color:red
+}
